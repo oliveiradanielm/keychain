@@ -1,2 +1,1 @@
-# keychain
-Text for my NFC keychain
+# puts "Se você leu isso, merece um café."
